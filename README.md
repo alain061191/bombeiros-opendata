@@ -54,7 +54,7 @@ You must have database dump available at the following link: https://drive.googl
 `(meu-virtualenv)$ python app.py`
 
 ### Para colocar o processo em segundo plano e jogar a saida em log.log
-`(meu-virtualenv)$ python app.py &>> log.log&
+`(meu-virtualenv)$ python app.py &>> log.log&`
 
 ### Para acompanhar a saida no arquivo
-`(meu-virtualenv)$ tail -f log.log
+`(meu-virtualenv)$ tail -f log.log`
